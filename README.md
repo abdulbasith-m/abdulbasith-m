@@ -237,7 +237,7 @@ class AbdulBaseeth:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Baseeth%20Ibrahim-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasith-m/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Baseeth%20Ibrahim-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasithibrahim/)
 [![Phone](https://img.shields.io/badge/Phone-%2B966508194560-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+966508194560)
 [![Location](https://img.shields.io/badge/Location-Saudi%20Arabia-FF0000?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Saudi+Arabia)
 
